@@ -1,0 +1,6 @@
+{
+  "name": "FrigoVivo",
+  "description": "Frigorifero virtuale intelligente con scansione scontrini e codici a barre, avvisi di scadenza e ricette consigliate in stile GialloZafferano.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
